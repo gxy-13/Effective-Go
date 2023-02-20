@@ -26,6 +26,6 @@ Loop:
 			}
 		}
 	}
-	sum = 5
+	sum++
 	fmt.Println(sum)
 }
